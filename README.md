@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singhbad@outlook.in**
 
-- ⚡ Fun fact **I am either to keyboard or sleeping**
+- ⚡ Fun fact **🛠️ DevOps Engineer | Professional YAML Whisperer 🚀 “99% of my job is Googling... The other 1% is clearing caches.” 😎 🐳 Container Guru: Docker & Kubernetes – because shipping code should be harder than writing it. 🛡️ Terraforming Clouds: Not a god, but close enough. 🔄 CI/CD Maniac: Automating all the things so I can binge Netflix guilt-free. 💥 Debugging Motto: “If it works, don’t touch it. If it doesn’t, blame DNS.” 🔐 Secrets Keeper: Except for that one time I pushed keys to GitHub. 🤦‍♂️ 🎯 Dream: A world where pipelines never fail and all environments are "prod-like." 🌮 Fuel: Coffee, memes, and deploy-free Fridays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
